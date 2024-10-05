@@ -1,0 +1,4 @@
+[submodule "src/MuddSub"]
+	path = src/MuddSub
+	url = https://github.com/MuddSub/MuddSub.git
+	branch = remove-controls
